@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/newMech/static/css/main.f855e6bc.css",
-    "main.js": "/newMech/static/js/main.db948dc5.js",
-    "static/js/453.f77c1ce2.chunk.js": "/newMech/static/js/453.f77c1ce2.chunk.js",
-    "static/media/logo.svg": "/newMech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/newMech/static/css/main.5d270d30.css",
+    "main.js": "/newMech/static/js/main.f6441eaf.js",
+    "static/media/06.jpg": "/newMech/static/media/06.338e5e7a3167a9f63545.jpg",
+    "static/media/bus.jpg": "/newMech/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/01.jpg": "/newMech/static/media/01.a0af8ff8698f2cd59215.jpg",
+    "static/media/02.jpg": "/newMech/static/media/02.c9bd5bdfbc4905450df7.jpg",
+    "static/media/05.jpg": "/newMech/static/media/05.64f0efbd8e45e8836935.jpg",
+    "static/media/04.jpg": "/newMech/static/media/04.40624739df040a0b6bf0.jpg",
+    "static/media/03.jpg": "/newMech/static/media/03.d4144d966e8ca10c116a.jpg",
+    "static/media/food.png": "/newMech/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/post.jpeg": "/newMech/static/media/post.6c5be544e7a9a3643862.jpeg",
+    "static/media/i21.png": "/newMech/static/media/i21.06a57c82e86dfb0e8bc3.png",
+    "static/media/i5.png": "/newMech/static/media/i5.36033e8e5810d4e3bb28.png",
+    "static/media/i13.png": "/newMech/static/media/i13.013317394fce01f3fc8a.png",
+    "static/media/i9.png": "/newMech/static/media/i9.e823fe9e2f8eac1e9f55.png",
+    "static/media/i4.png": "/newMech/static/media/i4.4d3b35d0d507a3ba59d2.png",
+    "static/media/i6.png": "/newMech/static/media/i6.fa1170481e82be717c23.png",
+    "static/media/i10.png": "/newMech/static/media/i10.8653d227b35cb0ae3dcc.png",
+    "static/media/i18.png": "/newMech/static/media/i18.c0f849a59b3504cd5323.png",
+    "static/media/i8.png": "/newMech/static/media/i8.1ad589916071b091b571.png",
+    "static/media/i20.png": "/newMech/static/media/i20.f6572eb0b03acff8da24.png",
     "index.html": "/newMech/index.html",
-    "main.f855e6bc.css.map": "/newMech/static/css/main.f855e6bc.css.map",
-    "main.db948dc5.js.map": "/newMech/static/js/main.db948dc5.js.map",
-    "453.f77c1ce2.chunk.js.map": "/newMech/static/js/453.f77c1ce2.chunk.js.map"
+    "main.5d270d30.css.map": "/newMech/static/css/main.5d270d30.css.map",
+    "main.f6441eaf.js.map": "/newMech/static/js/main.f6441eaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.db948dc5.js"
+    "static/css/main.5d270d30.css",
+    "static/js/main.f6441eaf.js"
   ]
 }
