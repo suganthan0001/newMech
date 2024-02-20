@@ -27,7 +27,7 @@ const Contact = () => {
           Mail
         </button>
       </div>
-      <h2>Call us: +91 94439 49827</h2>      
+      <h2>Call us: +91 89398 28346</h2>      
     </div>
   );
 };
