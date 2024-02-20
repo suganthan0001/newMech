@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newMech/static/css/main.5d270d30.css",
-    "main.js": "/newMech/static/js/main.564ebb68.js",
+    "main.js": "/newMech/static/js/main.355a9709.js",
     "static/media/06.jpg": "/newMech/static/media/06.338e5e7a3167a9f63545.jpg",
     "static/media/bus.jpg": "/newMech/static/media/bus.3cdfdd762da045dfce1f.jpg",
     "static/media/01.jpg": "/newMech/static/media/01.a0af8ff8698f2cd59215.jpg",
@@ -10,7 +10,7 @@
     "static/media/04.jpg": "/newMech/static/media/04.40624739df040a0b6bf0.jpg",
     "static/media/03.jpg": "/newMech/static/media/03.d4144d966e8ca10c116a.jpg",
     "static/media/food.png": "/newMech/static/media/food.4b32153b0da9cbb35e1b.png",
-    "static/media/post.jpeg": "/newMech/static/media/post.6c5be544e7a9a3643862.jpeg",
+    "static/media/post.jpeg": "/newMech/static/media/post.01f67a5355ea58e27a8e.jpeg",
     "static/media/i21.png": "/newMech/static/media/i21.06a57c82e86dfb0e8bc3.png",
     "static/media/i5.png": "/newMech/static/media/i5.36033e8e5810d4e3bb28.png",
     "static/media/i13.png": "/newMech/static/media/i13.013317394fce01f3fc8a.png",
@@ -23,10 +23,10 @@
     "static/media/i20.png": "/newMech/static/media/i20.f6572eb0b03acff8da24.png",
     "index.html": "/newMech/index.html",
     "main.5d270d30.css.map": "/newMech/static/css/main.5d270d30.css.map",
-    "main.564ebb68.js.map": "/newMech/static/js/main.564ebb68.js.map"
+    "main.355a9709.js.map": "/newMech/static/js/main.355a9709.js.map"
   },
   "entrypoints": [
     "static/css/main.5d270d30.css",
-    "static/js/main.564ebb68.js"
+    "static/js/main.355a9709.js"
   ]
 }
