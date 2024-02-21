@@ -1,18 +1,18 @@
 import React, { useState, useEffect } from 'react';
-import image01 from '../Assets/01.jpeg';
-import image02 from '../Assets/02.jpeg';
-import image03 from '../Assets/03.jpeg';
-import image04 from '../Assets/04.jpeg';
-import image05 from '../Assets/05.jpeg';
-import image06 from '../Assets/06.jpeg';
-import image07 from '../Assets/07.png';
-import image08 from '../Assets/08.png';
-import image09 from '../Assets/09.jpeg';
-import image10 from '../Assets/10.jpeg';
-import image11 from '../Assets/11.png';
-import image12 from '../Assets/12.jpeg';
-import image13 from '../Assets/13.jpeg';
-import image14 from '../Assets/14.jpeg';
+import image01 from '../Assets/001.jpeg';
+import image02 from '../Assets/002.jpeg';
+import image03 from '../Assets/003.jpeg';
+import image04 from '../Assets/004.jpeg';
+import image05 from '../Assets/005.jpeg';
+import image06 from '../Assets/006.jpeg';
+import image07 from '../Assets/007.jpeg';
+import image08 from '../Assets/008.jpeg';
+// import image09 from '../Assets/009.jpeg';
+// import image10 from '../Assets/010.jpeg';
+// import image11 from '../Assets/011.png';
+// import image12 from '../Assets/012.jpeg';
+// import image13 from '../Assets/013.jpeg';
+// import image14 from '../Assets/014.jpeg';
 
 const Testimonial = () => {
   const [imageIndex, setImageIndex] = useState(0);
@@ -38,7 +38,7 @@ const Testimonial = () => {
     const intervalId = setInterval(() => {
       setImageOpacity(0);
       setTimeout(() => {
-        setImageIndex((prevIndex) => (prevIndex + 1) % 11);
+        setImageIndex((prevIndex) => (prevIndex + 1) % 8);
         setImageOpacity(1);
       }, 1500);
     }, 4000);
@@ -47,7 +47,7 @@ const Testimonial = () => {
   }, []);
 
   const getImageName = (index) => {
-    const images = [image09, image07, image11, image03, image04, image12, image01, image06, image05, image08, image13, image10, image02, image14];
+    const images = [ image07,  image03, image04,  image01, image06, image05, image08,image02];
     return images[index];
   };
 
@@ -91,9 +91,9 @@ const Testimonial = () => {
         alt={`Image ${imageIndex}`}
         style={imageStyle}
       />
-      <div style={detailsStyle}>
+      {/* <div style={detailsStyle}>
         <p style={{backgroundColor:"black",padding:"7px 7px",}}>{imageDetails[imageIndex]}</p>
-      </div>
+      </div> */}
     </div>
   );
 };
