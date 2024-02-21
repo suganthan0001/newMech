@@ -1,15 +1,23 @@
 {
   "files": {
     "main.css": "/newMech/static/css/main.5d270d30.css",
-    "main.js": "/newMech/static/js/main.12351cc2.js",
+    "main.js": "/newMech/static/js/main.68e883e6.js",
     "static/media/06.jpg": "/newMech/static/media/06.338e5e7a3167a9f63545.jpg",
     "static/media/bus.jpg": "/newMech/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/008.jpeg": "/newMech/static/media/008.131887b99b13f23632b8.jpeg",
     "static/media/01.jpg": "/newMech/static/media/01.a0af8ff8698f2cd59215.jpg",
     "static/media/02.jpg": "/newMech/static/media/02.c9bd5bdfbc4905450df7.jpg",
     "static/media/05.jpg": "/newMech/static/media/05.64f0efbd8e45e8836935.jpg",
     "static/media/04.jpg": "/newMech/static/media/04.40624739df040a0b6bf0.jpg",
     "static/media/03.jpg": "/newMech/static/media/03.d4144d966e8ca10c116a.jpg",
+    "static/media/004.jpeg": "/newMech/static/media/004.6c7c5af432e73a19355a.jpeg",
     "static/media/food.png": "/newMech/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/006.jpeg": "/newMech/static/media/006.dbacba522447ac7659af.jpeg",
+    "static/media/001.jpeg": "/newMech/static/media/001.d47713e88ca67366a9f8.jpeg",
+    "static/media/003.jpeg": "/newMech/static/media/003.fa6861bc02d852d6bc7a.jpeg",
+    "static/media/002.jpeg": "/newMech/static/media/002.8f057dfc42ddda670096.jpeg",
+    "static/media/005.jpeg": "/newMech/static/media/005.3b15b21c4d60472748e2.jpeg",
+    "static/media/007.jpeg": "/newMech/static/media/007.c10aa0ffced555fbc334.jpeg",
     "static/media/post.jpeg": "/newMech/static/media/post.01f67a5355ea58e27a8e.jpeg",
     "static/media/i21.png": "/newMech/static/media/i21.06a57c82e86dfb0e8bc3.png",
     "static/media/i5.png": "/newMech/static/media/i5.36033e8e5810d4e3bb28.png",
@@ -23,10 +31,10 @@
     "static/media/i20.png": "/newMech/static/media/i20.f6572eb0b03acff8da24.png",
     "index.html": "/newMech/index.html",
     "main.5d270d30.css.map": "/newMech/static/css/main.5d270d30.css.map",
-    "main.12351cc2.js.map": "/newMech/static/js/main.12351cc2.js.map"
+    "main.68e883e6.js.map": "/newMech/static/js/main.68e883e6.js.map"
   },
   "entrypoints": [
     "static/css/main.5d270d30.css",
-    "static/js/main.12351cc2.js"
+    "static/js/main.68e883e6.js"
   ]
 }
