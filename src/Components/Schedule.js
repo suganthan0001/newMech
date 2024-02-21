@@ -177,7 +177,7 @@ const Schedule = () => {
               <td style={{ border: "1px solid black", padding: "8px" }}>{detailsByWeek[`1:${index++}`][0]}</td>
               {/* <td style={{ border: "1px solid black", padding: "8px" }}>{["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"][date.getDay()]}</td> */}
               <td style={{ border: "1px solid black", padding: "8px"}}>
-                <button onClick={() => handleViewDetails(index)} className="syllabus-link" style={{ display: "block", textAlign: "center", padding: "5px", textDecoration: "none", color: "#007BFF", cursor: "pointer", backgroundColor: "transparent", border: "none", transition: "background-color 0.3s",marginLeft:"auto",marginRight:"auto" }}>View</button>
+                <button onClick={() => handleViewDetails(--index)} className="syllabus-link" style={{ display: "block", textAlign: "center", padding: "5px", textDecoration: "none", color: "#007BFF", cursor: "pointer", backgroundColor: "transparent", border: "none", transition: "background-color 0.3s",marginLeft:"auto",marginRight:"auto" }}>View</button>
               </td>
             </tr>
           ))}
