@@ -165,7 +165,7 @@ const Schedule = () => {
       <table style={{ width: "80%", margin: "20px auto", borderCollapse: "collapse", }}>
         <thead>
           <tr>
-            <th style={{ border: "1px solid black", padding: "8px", backgroundColor: "#007BFF", color: "#fff" }}>Date</th>
+            <th style={{ border: "1px solid black", padding: "8px", backgroundColor: "#007BFF", color: "#fff" }}>Events</th>
             {/* <th style={{ border: "1px solid black", padding: "8px", backgroundColor: "#007BFF", color: "#fff" }}>Day</th> */}
             <th style={{ border: "1px solid black", padding: "8px", backgroundColor: "#007BFF", color: "#fff" }}>Topics</th>
           </tr>
@@ -174,7 +174,7 @@ const Schedule = () => {
           {dates.map((date, index) => (
             <tr key={index} style={{ backgroundColor: index % 2 === 0 ? "white" : "whitesmoke" }}>
               {/* <td style={{ border: "1px solid black", padding: "8px" }}>{`${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`}</td> */}
-              <td style={{ border: "1px solid black", padding: "8px" }}>Event {index + 1}</td>
+              <td style={{ border: "1px solid black", padding: "8px" }}>{detailsByWeek[`1:${index++}`][0]}</td>
               {/* <td style={{ border: "1px solid black", padding: "8px" }}>{["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"][date.getDay()]}</td> */}
               <td style={{ border: "1px solid black", padding: "8px"}}>
                 <button onClick={() => handleViewDetails(index)} className="syllabus-link" style={{ display: "block", textAlign: "center", padding: "5px", textDecoration: "none", color: "#007BFF", cursor: "pointer", backgroundColor: "transparent", border: "none", transition: "background-color 0.3s",marginLeft:"auto",marginRight:"auto" }}>View</button>
